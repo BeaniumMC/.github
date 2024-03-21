@@ -1,5 +1,5 @@
 <center>
-    <img src="../images/logo_white.png" alt="Beanium logo">
+    <img src="https://github.com/BeaniumMC/.github/blob/images/logo_white.png" alt="Beanium logo">
 
     Welcome to the official Beanium GitHub organization!  
     There isn't much here yet, but stay tuned!
