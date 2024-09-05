@@ -2,9 +2,8 @@
 <img src="https://github.com/BeaniumMC/.github/blob/main/profile/logo.png" alt="Beanium logo">
 
 Welcome to the official Beanium GitHub organization!  
-There isn't much here yet, but stay tuned!
 
-## What to do while waiting
+## What to do
 
 - Join our [Discord](https://discord.beanium.net).
 
