@@ -1,8 +1,17 @@
 <center>
-<img src="https://github.com/BeaniumMC/.github/blob/main/images/logo_white.png" alt="Beanium logo">
+<img src="https://github.com/BeaniumMC/.github/blob/main/profile/logo.png" alt="Beanium logo">
 
 Welcome to the official Beanium GitHub organization!  
 There isn't much here yet, but stay tuned!
 
-Join our [Discord](https://discord.beanium.net/) for updates.
+## What to do while waiting
+
+- Join our [Discord](https://discord.beanium.net).
+
+- Check out [our website](https://beanium.net). 
+
+- Participate in [discussions](https://github.com/orgs/BeaniumMC/discussions) on our GitHub organization.
+
+- View our [public roadmap](https://github.com/orgs/BeaniumMC/projects/1) to see exciting new features being woked on.
+
 </center>
