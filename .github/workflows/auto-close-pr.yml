@@ -35,7 +35,7 @@ jobs:
 
       - name: Close PR
         id: close_pr
-        if: ${{ steps.check_employee.outputs.result == 'true' }}
+        if: ${{ steps.check_employee.outputs.result == 'false' }}
         uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
