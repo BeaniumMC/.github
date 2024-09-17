@@ -11,6 +11,6 @@ Welcome to the official Beanium GitHub organization!
 
 - Participate in [discussions](https://github.com/orgs/BeaniumMC/discussions) on our GitHub organization.
 
-- View our [public roadmap](https://github.com/orgs/BeaniumMC/projects/1) to see exciting new features being woked on.
+- View our [public roadmap](https://github.com/BeaniumMC/roadmap) to see exciting new features being woked on.
 
 </center>
