@@ -9,8 +9,6 @@ Welcome to the official Beanium GitHub organization!
 
 - Check out [our website](https://beanium.net). 
 
-- Participate in [discussions](https://github.com/orgs/BeaniumMC/discussions) on our GitHub organization.
-
 - View our [public roadmap](https://github.com/BeaniumMC/roadmap) to see new features being worked on.
 
 </center>
