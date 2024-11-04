@@ -7,8 +7,6 @@ Welcome to the official Beanium GitHub organization!
 
 - Join our [Discord](https://discord.beanium.net).
 
-- Check out [our website](https://beanium.net). 
-
-- View our [public roadmap](https://github.com/BeaniumMC/roadmap) to see new features being worked on.
+- Check out [our website](https://beanium.net).
 
 </center>
