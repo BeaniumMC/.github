@@ -1,5 +1,5 @@
 <center>
-<img src="/profile/logo.png" alt="Beanium logo">
+<img src="/profile/blueprint_logo.png" alt="Beanium logo">
 
 Welcome to the official Beanium GitHub organization!  
 
