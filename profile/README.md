@@ -9,5 +9,6 @@ Welcome to the official Beanium GitHub organization!
 
 - Join our [Discord](https://discord.beanium.net).
 - Check out [our website](https://beanium.net).
+- Contribute to our [translation project](https://github.com/BeaniumMC/translations).
 
 </center>
