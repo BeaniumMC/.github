@@ -4,7 +4,7 @@ If you believe you have found a security vulnerability in any BeaniumMC-owned re
 
 **Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Instead, please [join our Discord server](https://discord.beanium.net) and send a private message to **@bigvirusboi** or **@assieklapper**.
+Instead, please send a detailed e-mail to **contact@beanium.net**.  
 
 Please include as much of the information listed below as you can to help us better understand and resolve the issue:
 
