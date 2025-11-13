@@ -3,7 +3,9 @@
 
 Welcome to the official Beanium GitHub organization!  
 
-[Submit an issue here](https://github.com/BeaniumMC/community/issues/new/choose)  
+[Submit issues here](https://github.com/BeaniumMC/community/issues/new/choose)  
+[Ask the community in our discussions](https://github.com/orgs/BeaniumMC/discussions)  
+[View our roadmap](https://github.com/BeaniumMC/roadmap)  
 
 ## What to do
 
